@@ -8,8 +8,8 @@
                 title="Rom"
                 description="Download AOSP-RRO Latest build">https://www.androidfilehost.com/?fid=24591000424948624</RomUrl>
             <SlimGappsUrl
-            	id="open_apps"
-            	title="OPEN Gapps"
+            	id="gapps"
+            	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             <BanksGappsUrl
                 id="banks_gapps"
