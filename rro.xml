@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <kenzo>
+            <Filename>AOSP-RRO-6.0.1-20160720-kenzo-jenkins.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AOSP-RRO Latest build">https://www.androidfilehost.com/?fid=24591000424948624</RomUrl>
+            <SlimGappsUrl
+            	id="open_apps"
+            	title="OPEN Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            <BanksGappsUrl
+                id="banks_gapps"
+                title="BaNkS Dynamic GApps"
+                description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+	</kenzo>
+    </Stable>
+</SlimOTA>
