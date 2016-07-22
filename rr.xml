@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <kenzo>
+            <Filename>ResurrectionRemix-M-v5.7.1-20160722-kenzo.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">bit.ly/Warmachine28</RomUrl>
+            <BanksGappsUrl
+                id="banks_gapps"
+                title="BaNkS Dynamic GApps"
+                description="Download BaNkS latest GApps">http://download.dirtyunicorns.com/files/misc/misc/BANKS_GAPPS_6.XX.zip</BanksGappsUrl>
+	</kenzo>
+    </Stable>
+</SlimOTA>
