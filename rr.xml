@@ -19,6 +19,10 @@
                 id="open_gapps"
                 title="Open Gapps"
                 description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+            <CM-13.0-FirmwareUrl
+                id="cm-13.0_firmware"
+                title="CM-13.0 Firmware"
+                description="Download CM-13.0-Firmware.zip">https://www.androidfilehost.com/?fid=24591000424951192</CM-13.0-FirmwareUrl> 
 	</kenzo>
     </Stable>
 </SlimOTA>
