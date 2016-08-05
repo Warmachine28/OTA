@@ -26,7 +26,7 @@
             <MirrorUrl
                 id="mirror"
                 title="Mirror Links For ResurrectionRemix Builds"
-                description="Download ResurrectionRemix Builds From Androidfilehost</MirrorUrl>
+                description="Download ResurrectionRemix Builds From Androidfilehost">https://bit.ly/rr_afh</MirrorUrl>
 	</kenzo>
     </Stable>
 </SlimOTA>
