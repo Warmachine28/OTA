@@ -23,6 +23,10 @@
                 id="firmware"
                 title="CM-13.0 Firmware"
                 description="Download CM-13.0-Firmware.zip">https://www.androidfilehost.com/?fid=24591000424951192</FirmwareUrl> 
+            <MirrorUrl
+                id="mirror"
+                title="Mirror Links For ResurrectionRemix Builds"
+                description="Download ResurrectionRemix Builds From Androidfilehost</MirrorUrl>
 	</kenzo>
     </Stable>
 </SlimOTA>
