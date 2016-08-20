@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <kenzo>
-            <Filename>ResurrectionRemix-M-v5.7.3-20160807-kenzo.zip</Filename>
+            <Filename>ResurrectionRemix-M-v5.7.3-20160820-kenzo.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -26,7 +26,7 @@
             <MirrorUrl
                 id="mirror"
                 title="Mirror Link For ResurrectionRemix Latest Build."
-                description="Download ResurrectionRemix Latest Build From Androidfilehost">https://www.androidfilehost.com/?fid=24591000424952924</MirrorUrl>
+                description="Download ResurrectionRemix Latest Build From Androidfilehost">https://www.androidfilehost.com/?fid=24686681827312084</MirrorUrl>
 	</kenzo>
     </Stable>
 </SlimOTA>
